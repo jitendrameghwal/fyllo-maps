@@ -1,1 +1,1 @@
-# fyllo-maps
+Google Maps API Integration to show markers with device location and data
